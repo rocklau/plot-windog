@@ -15,7 +15,7 @@ chia automation script tool on Windows
   
   当然也有好处，就是更容易管理。
   
-##  自动P盘脚步
+##  自动P盘脚本
   task.ps1
   
   * 检查任务数不够就启动新任务
