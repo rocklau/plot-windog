@@ -15,6 +15,8 @@ chia automation script tool on Windows
   
   当然也有好处，就是更容易管理。
   
+  * 要修改初始磁盘号和结束的磁盘号 `$x`
+  
 ##  自动P盘脚本
   task.ps1
   
