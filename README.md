@@ -9,7 +9,7 @@ chia automation script tool on Windows
   
   所以这里，要把硬盘挂在到目录上
   
-  当然也有好处，就是脚本容易些，
+  当然也有好处，就是更容易管理。
   
 ##  自动P盘脚步
   task.ps1
