@@ -5,3 +5,7 @@ chia automation script tool on Windows
   driver.ps1
 ##  自动P盘脚步
   task.ps1
+  
+   
+## 备注
+先设置``` Set-ExecutionPolicy Unrestricted```
